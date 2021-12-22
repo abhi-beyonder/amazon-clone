@@ -1,0 +1,14 @@
+{
+  "name": "abhishek",
+  "version": "1.0.0",
+  "description": "This is tailwind css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abhi",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^2.2.7"
+  }
+}
